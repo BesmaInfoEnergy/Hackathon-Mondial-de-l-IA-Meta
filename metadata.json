@@ -1,0 +1,6 @@
+{
+  "name": "SI-Modernize AI - Enterprise Legacy Modernization & DevSecOps Audit Engine",
+  "description": "Principal Enterprise Systems Architect & Lead IT Auditor AI. Automated legacy codebase audits, technical debt quantification, OWASP DevSecOps compliance, and Martin Fowler Strangler Fig Cloud-Native migration roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
